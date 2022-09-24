@@ -76,7 +76,7 @@ While the full game is available as a download, the only code available in this 
 ![9_Gif](./Pictures/9_Gif.gif)
 ![9_Pic](./Pictures/9_Pic.png)
 
-10. The next thing to do was to add boost/Nitro. I added in a Nitro System that refills as you race based on [this nitro tutorial](https://www.youtube.comnwatch?v=XFrsQmRJEOE), and exhaust flames that come out of the pod engine while boosting. I also made a camera-lag system, where the camera provides a broader view of the surroundings as the player accelrates, to give the impression that the pod is going even faster. 
+10. The next thing to do was to add boost/Nitro. I added in a Nitro System that refills as you race based on [this nitro tutorial](https://www.youtube.comnwatch?v=XFrsQmRJEOE), and exhaust flames that come out of the pod engine while boosting. I also made a camera-lag system, where the camera provides a broader view of the surroundings as the player accelerates, to give the impression that the pod is going even faster. 
 Below is a code snippet for the nitro system:
 ![10_Pic](./Pictures/10_Pic.png)
 
