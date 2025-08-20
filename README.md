@@ -51,7 +51,7 @@ While the full game is available as a download, the only code available in this 
 - Code Snippet for applying the acceleration curve
 ![4_PicC](./Pictures/4_PicC.png)
 
-5. Then I add some test scenery to the game using real-life canyon assets from [Quixel](https://quixel.com/). I also impemented collision detection between the hovercar and the canyons.
+5. Then I add some test scenery to the game using real-life canyon assets from [Quixel](https://quixel.com/). I also implemented collision detection between the hovercar and the canyons.
 ![5_Gif](./Pictures/5_Gif.gif)
 - Below is a screenshot showing all the surfaces on a single canyon block (blue lines show the edges of surfaces):
 ![5_Pic](./Pictures/5_Pic.png)
